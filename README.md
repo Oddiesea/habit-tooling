@@ -1,6 +1,7 @@
 # habit-tooling
 
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=master)
+[![Build 
+Status](https://github.com/Oddiesea/habit-tooling/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/Oddiesea/habit-tooling/actions/workflows/main.yml)
 
 ## Development
 
