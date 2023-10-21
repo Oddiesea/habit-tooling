@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "test": "bun test",
-    "start": "bun --watch src/index.ts"
+    "start": "bun --watch src/index.ts",
+    "transpile": "bun build ./src/index.ts --outdir ./src/ --minify"
   },
   "devDependencies": {
     "bun-types": "latest"

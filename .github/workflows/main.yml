@@ -20,6 +20,7 @@ jobs:
       - run: bun test
 
   build:
+    needs: testing
     name: build
     runs-on: ubuntu-latest
     steps:
