@@ -1,5 +1,6 @@
 # habit-tooling
 
+![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=master)
 
 ## Development
 
